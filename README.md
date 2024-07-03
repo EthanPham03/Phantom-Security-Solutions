@@ -64,4 +64,4 @@ We have a collection of scripts used in the project for various purposes:
 *
 ## Presentation Link
 View our live project presentation [here]() for an overview of Phantom Security Solutions features and functionalities.<br>
-Take a view of our project presentation slideshow [here]()
+Take a view of our project presentation slideshow [here](https://docs.google.com/presentation/d/16AyjZcA34EUX083Gan4oSfD8MgldikvfE52h6h6Ioks/edit?usp=sharing)
